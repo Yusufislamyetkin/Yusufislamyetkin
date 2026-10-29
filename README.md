@@ -29,7 +29,7 @@
 
 ### Featured project
 
-**[MiniBank](https://github.com/Yusufislamyetkin/MiniBank)** — a card-payments reference system in .NET 9, modeled on the banking domain I worked in.
+**[CardCore](https://github.com/Yusufislamyetkin/CardCore)** — a card-payments reference system in .NET 9, modeled on the banking domain I worked in.
 10 services (IAM, accounts, cards, real-time authorization, transactions, installments, fraud, end-of-day, reconciliation, notifications) behind a YARP gateway, with atomic Redis spending limits, PostgreSQL per service, OpenTelemetry tracing and Testcontainers integration tests.
 
 ---
